@@ -1,0 +1,6 @@
+src/cdtextinfo.c:
+Andreas Frisch <andreas.frisch@multimedia-labs.de>
+
+src/cddb.[ch] (from libcdio-0.82):
+Herbert Valerio Riedel <hvr@gnu.org>
+Rocky Bernstein <rocky@gnu.org>
