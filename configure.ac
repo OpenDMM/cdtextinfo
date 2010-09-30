@@ -5,7 +5,7 @@ AC_PREREQ(2.61)
 AC_INIT([cdtextinfo], [0.1], [andreas.frisch@multimedia-labs,de])
 AC_CONFIG_SRCDIR([src/cdtextinfo.c])
 AC_CONFIG_HEADER([config.h])
-AM_INIT_AUTOMAKE([1.10])
+AM_INIT_AUTOMAKE([dist-bzip2])
 
 # Checks for programs.
 AC_PROG_CC
